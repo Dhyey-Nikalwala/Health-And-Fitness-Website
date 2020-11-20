@@ -1,0 +1,23 @@
+body {
+    font-family: monospace;
+	font-weight: bold;
+}
+
+span {
+    float: left;
+    width: 150px;
+    test-align: right;
+	
+}
+.hero	
+{
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url("images/pic.png");
+    background-position: center;
+    position: absolute;
+    background-size: cover;
+	align-content: right;
+	filter: white-space	(100%);
+
+}
